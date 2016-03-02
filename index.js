@@ -3,7 +3,7 @@ var amqpRecv = require('amqplib');
 var amqpSend = require('amqplib');
 var when = require('when');
 var request = require('request');
-var helpers = require('./helpers');
+//var helpers = require('./helpers');
 var encodinglib = require("encoding");
 var config = require("./config");
 
